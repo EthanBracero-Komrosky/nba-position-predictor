@@ -11,7 +11,7 @@ In today's league, traditional NBA position labels have become increasingly misl
 - **Forwards were the hardest position to predict**:
 every misclassification involved a Forward, never a Center-Guard confusion
 - **Rebounding was the most important feature** by a significant margin
-- The model *correctly "misclassified" players* like **Luka Dončić (F->G)**, **Victor Wembanyama (F->C)**, and **Bam Adebayo (C->F)** — suggesting it captures how players actually play better than their official NBA labels
+- The **model correctly "misclassified" players** like *Luka Dončić (F->G)*, *Victor Wembanyama (F->C)*, and *Bam Adebayo (C->F)* — suggesting it captures how players actually play better than their official NBA labels
 
 ## Tech Stack
 - Python 3.13
